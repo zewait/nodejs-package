@@ -1,0 +1,19 @@
+{
+  "name": "lowercase_demo_ze",
+  "version": "0.1.1",
+  "description": "A demo package",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ze_wait",
+  "license": "ISC",
+  "readmeFilename": "README.md",
+  "main": "lowercase.js",
+  "repository": {
+  	"type": "git",
+  	"url":"https://github.com/zewait/lowercase_demo"
+  }
+}
